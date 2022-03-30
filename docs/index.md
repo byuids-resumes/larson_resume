@@ -7,6 +7,7 @@ title: Jordan Larson's Resume
 
 `2018-2022`
 Brigham Young University - Idaho, Rexburg ID
+
 BS General Psychology
 - 3.7 GPA
 
