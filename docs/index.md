@@ -1,89 +1,66 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Jordan Larson's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
-
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
-
+`2018-2022`
+Brigham Young University - Idaho, Rexburg ID
+BS General Psychology
+- 3.7 GPA
 
 ## Related Experience
 
+### Skills
+- Proficient in R coding, SPSS, and Jasp
+- Comfortable with data wrangling and visualization techniques (ggplot, base R)
+- Strong understanding of various statistical tests and interpretation
+- Deep knowledge in predictive regression modelling
+- Fluent in Spanish
+- Good leadership/communication skills
+
 ### Internships
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+`January 2020 - January 2021`
+Health Psychology Research Assistant, Rexburg ID
+- Performed objective health assessments (BMI, grip strength, blood pressure, etc)
+- Designed and executed research using Qualtrics surveys covering topics such as technology, health, and COVID-19
+- Lead a team of seven in coordinating research projects and reporting to the head professor
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+`January 2019 - April 2019`
+Psychological Assessment Research Assistant, Rexburg ID
+- Performed psychological assessments on children (10 and under) for research on memory, attention, and inhibition
+- Did around 30 assessments total
 
-### Data Science Lead
+### Service and Work History
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
+`March 2019 - Present`
+Kyani Inc, Quality Assurance Lead, Fraud Prevention Specialist, Customer Service, Rexburg ID
+- Built a Quality Assurance program with data trackers, representative dashboard statistics, and coaching trackers
+- Graded call quality based on program criteria
+- Assessed flagged orders for potential fraud and interacted with financial institutions to dispute chargebacks
 
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
+`January 2022 - April 2022`
+Brigham Young University-Idaho Data Science Lab, Rexburg ID
+- Taught skills about R programming
+- Answered questions to help solve class projects
 
-`September 2027 - April 2028`
-__Good2Go__, Consultant
+`January 2020 - November 2020`
+Brigham Young University-Idaho Tutoring Center, Rexburg ID
+- Tutoring Behavioral Neurobiology, Sensation and Perception, and Health Psychology
+- Customized individual study plans for students
+- Created practice quizzes and exams based on course material
 
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
+`April 2018 - January 2019`
+Deseret Industries Team Lead, Rexburg ID
+- Directed the work of associates for pricing, organizing, and merchandising donations
+- Priced rare or unique "collectibleJ" items
+- Supervised associates with mental and physical disabilities, diverse ethnic backgrounds, and in different languages
 
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
-
-
-## Service and Work History
-
-`2025-2027`
-__Math Tutor__, LDSBC
+`2015-2017`
+Service Missionary, Mexico
 
 
-`2023-2025`
-__Service Missionary__, South Africa
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
 
 
